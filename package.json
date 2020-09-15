@@ -1,0 +1,14 @@
+{
+  "name": "reto-tailwind",
+  "version": "1.0.0",
+  "description": "Primer ejercicio con tailwind",
+  "main": "src/index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "tailwind"
+  ],
+  "author": "Octavio Cuellar Vargas <octaviocvargas@gmail.com>",
+  "license": "MIT"
+}
